@@ -1,0 +1,5 @@
+return {
+	ToClient = {
+		UpdateText = "UpdateText"
+	}
+}
